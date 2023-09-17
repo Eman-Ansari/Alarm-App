@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#808080"
+    tools:context=".Clock">
+    <TimePicker
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/timePicker"/>
+    <EditText
+        android:id="@+id/edittext"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_below="@+id/timePicker"
+        android:layout_marginLeft="10dp"
+        android:textColor="@color/black"
+        android:hint="Alarm title"
+        android:layout_marginRight="10dp"/>
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/set_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/edittext"
+        android:background="@drawable/btnback"
+        android:layout_centerHorizontal="true"
+        android:textColor="#808080"
+        android:fontFamily="@font/amarante"
+        android:text="Set Time"/>
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/changealarmtone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/set_time"
+        android:textColor="#808080"
+        android:fontFamily="@font/amarante"
+        android:background="@drawable/btnback"
+        android:layout_centerHorizontal="true"
+        android:text="Change Alarm Tone "
+        android:padding="10dp"/>
+</RelativeLayout>
