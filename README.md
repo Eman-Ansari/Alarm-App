@@ -4,11 +4,10 @@ It includes features like setting alarms, managing alarms, and more.
 
 # Pictures
 <img src="https://github.com/Eman-Ansari/Alarm-App/assets/142986181/157176c8-0801-4fec-a75a-0a541e046621" width=200 height=300>
-![5](https://github.com/Eman-Ansari/Alarm-App/assets/142986181/157176c8-0801-4fec-a75a-0a541e046621)
-![4](https://github.com/Eman-Ansari/Alarm-App/assets/142986181/83877a8c-ca74-4ebf-87d1-d5e073a6371c)
-![3](https://github.com/Eman-Ansari/Alarm-App/assets/142986181/19ab2e88-7f0b-4009-927b-4b627d17069f)
-![2](https://github.com/Eman-Ansari/Alarm-App/assets/142986181/8044673c-ffe4-491a-9f25-cfca7f60c5fb)
-![1](https://github.com/Eman-Ansari/Alarm-App/assets/142986181/64e9e629-cb80-4565-8b34-87f99bbd386c)
+<img src="https://github.com/Eman-Ansari/Alarm-App/assets/142986181/83877a8c-ca74-4ebf-87d1-d5e073a6371c" width=200 height=300>
+<img src="https://github.com/Eman-Ansari/Alarm-App/assets/142986181/19ab2e88-7f0b-4009-927b-4b627d17069f" width=200 height=300>
+<img src="https://github.com/Eman-Ansari/Alarm-App/assets/142986181/8044673c-ffe4-491a-9f25-cfca7f60c5fb" width=200 height=300>
+<img src="https://github.com/Eman-Ansari/Alarm-App/assets/142986181/64e9e629-cb80-4565-8b34-87f99bbd386c" width=200 height=300>
 
 ### Table of Contents
 ## Introduction
