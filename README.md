@@ -9,16 +9,6 @@ It includes features like setting alarms, managing alarms, and more.
 <img src="https://github.com/Eman-Ansari/Alarm-App/assets/142986181/8044673c-ffe4-491a-9f25-cfca7f60c5fb" width=180 height=300>
 <img src="https://github.com/Eman-Ansari/Alarm-App/assets/142986181/64e9e629-cb80-4565-8b34-87f99bbd386c" width=180 height=300>
 
-### Table of Contents
-# Introduction
-# Features
-# Getting Started
-# Prerequisites
-# Installation
-# Usage
-# Contributing
-# License
-
 ### Introduction
 The project showcases a vertical RecyclerView using CardView to display alarms. It allows users to set alarms and provides options to snooze or dismiss them.
 
